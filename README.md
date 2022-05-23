@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheAxZim/TheAxZim/main/images/banner.png" />
+ </p>
+
 <h4 align="center"><samp> Hello there! I'm a Security Engineer 🔒 with a passion for Product & IoT security. 🚀
   <br>🕵️‍♂️ Currently scanning you for vulnerabilities... </samp></h4>
 <br />
